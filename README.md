@@ -1,6 +1,6 @@
-# Projeto Jonada Milhas
+# Projeto Jornada Milhas
 
-- O projeto foi desenvolvido para desenvolver os layouts das paginas usando a componentização e também autenticação de usuários.
+- O projeto foi desenvolvido para fazer os layouts das paginas usando a componentização e também autenticação de usuários.
 
 <img src="jornada-milhas/src/assets/projeto1.png"/>
 <br>
